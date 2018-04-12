@@ -20,9 +20,7 @@ KLab株式会社のサウンドチームが作成したプリセット集です�
 * KLabSound008_SHOTS3
   * 発射音です。SHOTS1~3を同時に鳴らすと太目のショットが鳴ります。
 
-## ライセンス
-利用条件はCreative Commons(CC BY 4.0)ライセンスとなります。
-
-作品中にて使用していただいた場合は、「KLab Sound Team」のクレジット表記をお願いします。
-
-https://creativecommons.org/licenses/by/4.0/deed.ja
+## 利用条件
+* このSEの再配布、転売を禁止します。
+* KLab株式会社への報告、クレジットの記載なしに商用利用していただけます。
+* このSEに関する著作権は KLab Sound Teamが 保有します。
